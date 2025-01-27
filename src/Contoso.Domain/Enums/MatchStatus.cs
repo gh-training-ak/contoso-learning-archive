@@ -1,0 +1,8 @@
+namespace Contoso.Domain.Entities;
+
+public enum MatchStatus
+{
+    Pending = 0,
+    Accepted = 1,
+    Rejected = 2
+}
