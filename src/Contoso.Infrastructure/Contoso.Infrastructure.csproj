@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
+    <ProjectReference Include="..\Contoso.Application\Contoso.Application.csproj" />
+  </ItemGroup>
+</Project>
